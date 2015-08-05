@@ -20,9 +20,32 @@ let myConstantFloatExplicit: Float = 9.23344332323
 
 //Implicitly
 
-var myConstantInt = 89
+let myConstantInt = 89
 var myBoolImplicit = true
 var myArrayDouble = [89.009, 90.099]
 var myEmptyArrayBool = [Bool] ()
 var myArrayStrings = ["df", "fg", "gh"]
+
+
+//random values
+
+//var RandomInt = ma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//scavenger hunt
+
+var ArrayOfStrings = ["sort", "sorted", "find"]  //algorithms
 
